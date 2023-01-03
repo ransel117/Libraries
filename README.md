@@ -1,2 +1,2 @@
 # Libraries
-A collection of libraries i've made
+A collection of libraries i've made or making
