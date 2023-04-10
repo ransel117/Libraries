@@ -3,3 +3,5 @@ A collection of libraries i've made or am making
 
 ## ranmath
 https://github.com/Ransel117/ranmath
+## ranstring
+https://github.com/Ransel117/ranstring
